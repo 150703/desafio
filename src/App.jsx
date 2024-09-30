@@ -17,11 +17,12 @@ function App() {
       <header className="header">
         <nav>
           <ul>
-            <li><a href="#about">About</a></li>
-            <li><a href="#services">Services</a></li>
-            <li><a href="#projects">Projects</a></li>
+            <li><a href="https://www.facebook.com/?locale=es_LA">About</a></li>
+            <li><a href="https://www.facebook.com/?locale=es_LA">Services</a></li>
+            <li><a href="https://www.facebook.com/?locale=es_LA">Projects</a></li>
+            <button className="contact-button">CONTACT</button>
           </ul>
-          <button className="contact-button">CONTACT</button>
+          
         </nav>
         <h1>We Are Creatives</h1>
         <div className="orange-image">
@@ -105,16 +106,16 @@ function App() {
     <img src="images/logo.svg" alt="sunnyside logo" />
   </div>
   <div className="footer-menu">
-    <a href="#">About</a>
-    <a href="#">Services</a>
-    <a href="#">Projects</a>
+    <a href="https://www.facebook.com/?locale=es_LA">About</a>
+    <a href="https://www.facebook.com/?locale=es_LA">Services</a>
+    <a href="https://www.facebook.com/?locale=es_LA">Projects</a>
   </div>
   <div className="footer-social">
     <p>
-    <a href="#"><img src="images/icon-facebook.svg" alt="Facebook" /></a>
-    <a href="#"><img src="images/icon-instagram.svg" alt="Instagram" /></a>
-    <a href="#"><img src="images/icon-twitter.svg" alt="Twitter" /></a>
-    <a href="#"><img src="images/icon-pinterest.svg" alt="Pinterest" /></a>
+    <a href="https://www.facebook.com/?locale=es_LA"><img src="images/icon-facebook.svg" alt="Facebook" /></a>
+    <a href="https://www.instagram.com/?hl=es-es"><img src="images/icon-instagram.svg" alt="Instagram" /></a>
+    <a href="https://x.com/?lang=es"><img src="images/icon-twitter.svg" alt="Twitter" /></a>
+    <a href="https://mx.pinterest.com/"><img src="images/icon-pinterest.svg" alt="Pinterest" /></a>
     </p>
   </div>
 </footer>
